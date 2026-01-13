@@ -19,6 +19,12 @@ html {
   inline-size: 100%;
 }
 
+.loading-logo img {
+  display: block;
+  block-size: 64px;
+  inline-size: auto;
+}
+
 .loading {
   position: relative;
   box-sizing: border-box;

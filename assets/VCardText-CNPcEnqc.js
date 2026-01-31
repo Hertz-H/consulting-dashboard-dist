@@ -1,0 +1,1 @@
+import{ab as s,M as r,U as o,b as c,aT as n,W as m}from"./index-DLyiUI4T.js";const p=r({opacity:[Number,String],...m(),...n()},"VCardText"),x=s()({name:"VCardText",props:p(),setup(a,e){let{slots:t}=e;return o(()=>c(a.tag,{class:["v-card-text",a.class],style:[{"--v-card-text-opacity":a.opacity},a.style]},t)),{}}});export{x as V};

@@ -1,0 +1,1 @@
+import{O as b,bA as e,cJ as f}from"./index-BkjRLFTm.js";const O=(c,r)=>b(()=>{if(!(r!=null&&r.query))return e(c);const a=e(c),t=e(r==null?void 0:r.query),u=Object.fromEntries(Object.entries(t).map(([y,m])=>[y,e(m)]));return`${a}${u?`?${f(u)}`:""}`});export{O as c};
